@@ -1,0 +1,6 @@
+@article{REPO282,
+    author = "Zhou, Yupeng and Zhou, Daquan and Cheng, Ming-Ming and Feng, Jiashi and Hou, Qibin",
+    journal = "NeurIPS 2024",
+    title = "{StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation}",
+    year = "2024"
+}
