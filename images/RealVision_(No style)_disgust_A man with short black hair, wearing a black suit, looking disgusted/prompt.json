@@ -1,0 +1,20 @@
+{
+    "model": "RealVision",
+    "style_name": "(No style)",
+    "general_prompt": "A man with short black hair, wearing a black suit, looking disgusted",
+    "all_prompts": [
+        "walking into a public restroom, nose wrinkling at the smell",
+        "staring at a dirty toilet, eyebrows raised in shock",
+        "reaching for toilet paper, only to find the roll is empty",
+        "noticing suspicious stains on the sink, wincing in discomfort",
+        "seeing an overflowing trash can, covering his nose with his hand",
+        "leaving the restroom, shaking his head, visibly repulsed"
+    ],
+    "negative_prompt": ",deformed, bad anatomy, disfigured, poorly drawn face, mutation, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, blurry, watermarks, oversaturated, distorted hands, amputation",
+    "change_prompts": [
+        "A man with short black hair, wearing a black suit, looking disgusted,walking into a public restroom, nose wrinkling at the smell,",
+        "A man with short black hair, wearing a black suit, looking disgusted,staring at a dirty toilet, eyebrows raised in shock,",
+        "A man with short black hair, wearing a black suit, looking disgusted,reaching for toilet paper, only to find the roll is empty,",
+        "A man with short black hair, wearing a black suit, looking disgusted,noticing suspicious stains on the sink, wincing in discomfort,"
+    ]
+}

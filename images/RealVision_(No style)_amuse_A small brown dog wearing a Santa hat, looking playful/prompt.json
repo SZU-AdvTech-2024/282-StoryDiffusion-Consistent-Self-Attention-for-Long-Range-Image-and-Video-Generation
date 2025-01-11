@@ -1,0 +1,20 @@
+{
+    "model": "RealVision",
+    "style_name": "(No style)",
+    "general_prompt": "A small brown dog wearing a Santa hat, looking playful",
+    "all_prompts": [
+        "waking up beside a pile of Christmas presents, sniffing them",
+        "sniffing a bone-shaped ornament on the Christmas tree",
+        "prancing down a snowy street, leaving paw prints behind",
+        "watching as a family decorates cookies, sneaking a taste",
+        "jumping into a snowbank with other dogs, looking thrilled",
+        "curled up by the fireplace, watching a Christmas movie"
+    ],
+    "negative_prompt": ",deformed, bad anatomy, disfigured, poorly drawn face, mutation, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, blurry, watermarks, oversaturated, distorted hands, amputation",
+    "change_prompts": [
+        "A small brown dog wearing a Santa hat, looking playful,waking up beside a pile of Christmas presents, sniffing them,",
+        "A small brown dog wearing a Santa hat, looking playful,sniffing a bone-shaped ornament on the Christmas tree,",
+        "A small brown dog wearing a Santa hat, looking playful,prancing down a snowy street, leaving paw prints behind,",
+        "A small brown dog wearing a Santa hat, looking playful,watching as a family decorates cookies, sneaking a taste,"
+    ]
+}

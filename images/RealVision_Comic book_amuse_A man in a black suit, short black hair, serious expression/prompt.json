@@ -1,0 +1,20 @@
+{
+    "model": "RealVision",
+    "style_name": "Comic book",
+    "general_prompt": "A man in a black suit, short black hair, serious expression",
+    "all_prompts": [
+        "A man in a black suit, short black hair, serious expression,waking up in a bed, holding a red balloon with 'Good Morning' printed on it, face showing surprise,",
+        "A man in a black suit, short black hair, serious expression,sitting at a breakfast table, looking at a piece of toast that magically appears whole after each bite,",
+        "A man in a black suit, short black hair, serious expression,driving on a road in a black car, with a GPS screen showing unexpected, winding detours, expression curious and amused,",
+        "A man in a black suit, short black hair, serious expression,sitting at a work desk, looking at a computer screen with bright, funny pop-up messages that bring a smile,",
+        "A man in a black suit, short black hair, serious expression,running on a playground track, surrounded by laughing kids playing tag, joining in with a lighthearted expression,",
+        "A man in a black suit, short black hair, serious expression,at home, reading a comic book with a surprised smile at a funny twist on the page,"
+    ],
+    "negative_prompt": "photograph, deformed, glitch, noisy, realistic, stock photo, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,deformed, bad anatomy, disfigured, poorly drawn face, mutation, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, blurry, watermarks, oversaturated, distorted hands, amputation",
+    "change_prompts": [
+        "comic A man in a black suit, short black hair, serious expression,waking up in a bed, holding a red balloon with 'Good Morning' printed on it, face showing surprise, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit, short black hair, serious expression,sitting at a breakfast table, looking at a piece of toast that magically appears whole after each bite, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit, short black hair, serious expression,driving on a road in a black car, with a GPS screen showing unexpected, winding detours, expression curious and amused, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit, short black hair, serious expression,sitting at a work desk, looking at a computer screen with bright, funny pop-up messages that bring a smile, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed"
+    ]
+}

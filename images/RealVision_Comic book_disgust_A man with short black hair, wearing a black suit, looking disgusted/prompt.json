@@ -1,0 +1,20 @@
+{
+    "model": "RealVision",
+    "style_name": "Comic book",
+    "general_prompt": "A man with short black hair, wearing a black suit, looking disgusted",
+    "all_prompts": [
+        "walking into a public restroom, nose wrinkling at the smell",
+        "staring at a dirty toilet, eyebrows raised in shock",
+        "reaching for toilet paper, only to find the roll is empty",
+        "noticing suspicious stains on the sink, wincing in discomfort",
+        "seeing an overflowing trash can, covering his nose with his hand",
+        "leaving the restroom, shaking his head, visibly repulsed"
+    ],
+    "negative_prompt": "photograph, deformed, glitch, noisy, realistic, stock photo, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,deformed, bad anatomy, disfigured, poorly drawn face, mutation, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, blurry, watermarks, oversaturated, distorted hands, amputation",
+    "change_prompts": [
+        "comic A man with short black hair, wearing a black suit, looking disgusted,walking into a public restroom, nose wrinkling at the smell, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man with short black hair, wearing a black suit, looking disgusted,staring at a dirty toilet, eyebrows raised in shock, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man with short black hair, wearing a black suit, looking disgusted,reaching for toilet paper, only to find the roll is empty, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man with short black hair, wearing a black suit, looking disgusted,noticing suspicious stains on the sink, wincing in discomfort, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed"
+    ]
+}

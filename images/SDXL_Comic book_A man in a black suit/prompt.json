@@ -1,0 +1,20 @@
+{
+    "model": "SDXL",
+    "style_name": "Comic book",
+    "general_prompt": "A man in a black suit",
+    "all_prompts": [
+        "A man in a black suit,wake up in the bed,",
+        "A man in a black suit,have breakfast,",
+        "A man in a black suit,is on the road, go to the company,",
+        "A man in a black suit,work in the company,",
+        "A man in a black suit,running in the playground,",
+        "A man in a black suit,reading book in the home,"
+    ],
+    "negative_prompt": "photograph, deformed, glitch, noisy, realistic, stock photo, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,deformed, bad anatomy, disfigured, poorly drawn face, mutation, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, blurry, watermarks, oversaturated, distorted hands, amputation",
+    "change_prompts": [
+        "comic A man in a black suit,wake up in the bed, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,have breakfast, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,is on the road, go to the company, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,work in the company, . graphic illustration, comic art, graphic novel art, vibrant, highly detailed"
+    ]
+}

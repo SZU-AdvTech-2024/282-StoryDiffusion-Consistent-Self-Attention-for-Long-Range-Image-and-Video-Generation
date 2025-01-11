@@ -1,0 +1,9 @@
+{
+    "id_prompts": [
+        "comic A man in a black suit,wake up in the bed, which makes people amuse . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,have breakfast, which makes people amuse . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,is on the road, go to the company, which makes people amuse . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,work in the company, which makes people amuse . graphic illustration, comic art, graphic novel art, vibrant, highly detailed"
+    ],
+    "negative_prompt": "photograph, deformed, glitch, noisy, realistic, stock photo, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,deformed, bad anatomy, disfigured, poorly drawn face, mutation, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, blurry, watermarks, oversaturated, distorted hands, amputation"
+}

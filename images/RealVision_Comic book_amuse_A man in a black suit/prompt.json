@@ -1,0 +1,20 @@
+{
+    "model": "RealVision",
+    "style_name": "Comic book",
+    "general_prompt": "A man in a black suit",
+    "all_prompts": [
+        "A man in a black suit,wakes up holding a bright balloon that says 'Good Morning.',",
+        "A man in a black suit,At breakfast, his toast keeps reappearing every time he bites, an endless loop of bites.,",
+        "A man in a black suit,On the road, his GPS gives silly, playful detours, adding surprise to his commute.,",
+        "A man in a black suit,At work, his screen shows random, funny pop-ups that keep him chuckling.,",
+        "A man in a black suit,During his run, he joins a playful game of tag with laughing kids.,",
+        "A man in a black suit,Back home, he picks up a book, only to find it\u2019s full of unexpected comic twists.,"
+    ],
+    "negative_prompt": "photograph, deformed, glitch, noisy, realistic, stock photo, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,deformed, bad anatomy, disfigured, poorly drawn face, mutation, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, blurry, watermarks, oversaturated, distorted hands, amputation",
+    "change_prompts": [
+        "comic A man in a black suit,wakes up holding a bright balloon that says 'Good Morning.', . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,At breakfast, his toast keeps reappearing every time he bites, an endless loop of bites., . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,On the road, his GPS gives silly, playful detours, adding surprise to his commute., . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+        "comic A man in a black suit,At work, his screen shows random, funny pop-ups that keep him chuckling., . graphic illustration, comic art, graphic novel art, vibrant, highly detailed"
+    ]
+}
